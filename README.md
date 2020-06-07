@@ -13,3 +13,6 @@ My session at DevSangamam - Chennai for humans
 <img src="https://github.com/akshaybahadur21/DevSangamam-2020/blob/master/akshay.jpg">
 <img src = "https://github.com/akshaybahadur21/DevSangamam-2020/blob/master/akshay_drawing.png">
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/devsangmam.gif">
+<img src = "https://pbs.twimg.com/media/EZ53Up-U4AEYbhZ?format=jpg&name=large">
+<img src = "https://pbs.twimg.com/media/EZ52l_OUcAEldaW?format=jpg&name=large">
+<img src = "https://pbs.twimg.com/media/EZ5znVgU0AAsolv?format=jpg&name=large">
